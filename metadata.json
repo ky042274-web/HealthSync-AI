@@ -1,0 +1,6 @@
+{
+  "name": "HealthPulse AI - Smart Diagnostic System",
+  "description": "An AI-powered healthcare & smart diagnostic platform connecting patients, doctors, diagnostic labs, pathologists, and verified hospitals with medical image analysis, device telemetry, report management, and multilingual assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
